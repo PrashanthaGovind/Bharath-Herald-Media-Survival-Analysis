@@ -1,4 +1,4 @@
-# Bharath-Herald---Media-Survival-Analysis
+# Bharath Herald Media Survival Analysis
 This project, created for Codebasics Resume Project Challenge 17, analyzes the business performance of Bharat Herald, a regional newspaper experiencing declining circulation and digital adoption challenges. An interactive Power BI dashboard was built using SQL &amp; Excel to visualize circulation trends, ad revenue performance, and digital engagement.
 
 # Live Dashboard Link
@@ -15,4 +15,10 @@ The management wanted to understand:
 - Excel : Data Visualization & Data Cleaning
 - Power BI : Interactive Dashboards & KPIs
 
-#  Key Insights
+#  Ad-hoc Analysis Highlights
+- Top circulation drops: Varanasi (Jan 2021, Nov 2019), Jaipur (Jan 2020).
+- No ad category >50% revenue → diversification reduces risk.
+- Top print efficiency (2024): Ranchi, Ahmedabad, Patna, Jaipur, Varanasi (~90%).
+- Internet readiness growth (2021): Kanpur (+2.5%), Mumbai (+2.43%), Ranchi (–3.13%).
+- No city with continuous decline in both circulation + revenue (positive resilience).
+
